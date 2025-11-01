@@ -3,3 +3,6 @@ venv/
 
 .vs/
 x64/
+
+.DS_STORE
+
